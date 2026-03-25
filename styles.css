@@ -4,4 +4,78 @@
 
 /* write your rules below  this line*/
 
+.dark-bg {
+    background-color: #1e1e1e ;
+}
 
+.light-text {
+    color: #ffffff;
+}
+
+.rounded {
+    border-radius: 10px;
+}
+
+.spaced-out {
+    padding: 20px;
+}
+
+#page-title {
+    font-size: 48px;
+    text-align: center;
+}
+
+.card {
+    border: 10px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+.warning {
+    background-color: rgb(209, 1, 1);
+    color: black;
+}
+
+.img-style {
+    border: 20px;
+    border-radius: 50px;
+}
+
+.label-tag {
+    background-color: cadetblue;
+    border-radius: 50px;
+    padding: 20px;
+    color: whitesmoke;
+}
+
+#footer-style {
+    background-color: #0e1026;
+    color:rgb(192, 211, 246);
+    text-align: center;
+}
+
+#hero-section {
+    background-color: dodgerblue;
+    border: 30px;
+    border-radius: 40px;
+}
+
+#main-content {
+    background-color: aliceblue;
+    border-image: auto;
+    color: black;
+}
+
+.textstyle {
+    color: cadetblue;
+    word-spacing: calc(2);
+}
+
+.heading {
+    color: rgb(95, 111, 160);
+    text-decoration-line: underline;
+}
+
+#html-style {
+    background-color:#070a37;
+}
